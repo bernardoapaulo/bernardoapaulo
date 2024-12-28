@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bernardo Almeida</h1>
-<h3 align="center">A passionate Data Analyst with expertise in Python, SQL, and data visualization tools like Tableau and Power BI. I specialize in extracting actionable insights from complex datasets, creating interactive dashboards, and optimizing decision-making processes. With a strong foundation in statistical analysis and hands-on experience in real-world projects, I enjoy solving analytical challenges and turning data into impactful stories. Let's collaborate to unlock the potential of data!</h3>
+<h3 align="center">Data Analyst | Python, SQL, and Data Visualization Enthusiast | Turning Data into Actionable Insights | From Brazil</h3>
+
+- Hi, I'm **a passionate Data Analyst with expertise in Python, SQL, and data visualization tools like Tableau and Power BI. I specialize in extracting actionable insights from complex datasets, creating interactive dashboards, and optimizing decision-making processes. With a strong foundation in statistical analysis and hands-on experience in real-world projects, I enjoy solving analytical challenges and turning data into impactful stories. Let's collaborate to unlock the potential of data!**
 
 - 🌱 I’m currently learning **Basics of machine learning and improving my skills in Power BI and Tableau. Additionally, I am improving my French proficiency to expand my global communication skills.**
 
